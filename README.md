@@ -1,14 +1,7 @@
-<!-- 🌟 Animated Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=animated&color=gradient&text=Hello,%20I'm%20Vladimir!&font=align&section=header&animation=twinkling&textBg=false&desc=Aspiring%20Software%20Developer%20%26%20Problem%20Solver&descAlignY=65&fontSize=20" alt="Header Banner" />
-</p>
+💫 About Me:
+Hello, my name is Vladimir
 
-<!-- ⌨️ Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=3670A0&center=true&vCenter=true&width=600&lines=Passionate+about+C%2B%2B+and+OpenGL;Love+solving+complex+technical+problems;Always+learning+something+new+every+day;Mathematics+and+Logic+Enthusiast" alt="Typing Animation" />
-</p>
-
-### 🛠️ Tech Stack
+🛠️ Tech Stack
 <p align="center">
   <table align="center">
     <tr>
@@ -42,7 +35,7 @@
 
 ---
 
-### 📊 GitHub Stats
+📊 GitHub Stats
 <p align="center">
   <table>
     <tr>
@@ -63,7 +56,7 @@
 
 ---
 
-### 🌐 Connect With Me
+🌐 Connect With Me
 <p align="center">
   <a href="mailto:vladimirmaznyi08@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
