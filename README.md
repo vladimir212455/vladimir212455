@@ -8,16 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=3670A0&center=true&vCenter=true&width=600&lines=Passionate+about+C%2B%2B+and+OpenGL;Love+solving+complex+technical+problems;Always+learning+something+new+every+day;Mathematics+and+Logic+Enthusiast" alt="Typing Animation" />
 </p>
 
----
-
-### 👨‍💻 About Me
-- 🌱 I’m currently building projects and deepening my knowledge in **C++**, **Python**, and **OpenGL**.
-- 🎯 I enjoy systematically analyzing and isolating components to solve complex technical problems.
-- 📚 I value rigorous academic content, logical patterns, and consistent daily learning.
-- 💬 Ask me about **C++**, **CMake**, **Graphics Programming**, or **Mathematics**!
-
----
-
 ### 🛠️ Tech Stack
 <p align="center">
   <table align="center">
